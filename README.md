@@ -5,4 +5,4 @@ Current Skills: JavaScript | Express | MongoDB | REACT | Firebase | HTML | CSS |
 - 🌱 I’m currently working/learning React Native.
 - 💬 Ask me about: my passion for building eCommerce apps!
 - 📫 How to reach me: faithchendrickson at gmail com
-- ⚡ Fun fact: To take time away from screen and etherland, I'm a mixed media artist. This means getting paint under your nails, shredding perfectly good fabric and paper and generally feeling gleeful about creating messes.
+- ⚡ Fun fact: To take time away from screen and etherland, I'm a mixed media artist. This means getting paint under your nails, shredding perfectly good paper and fabric and generally feeling great about creating messes.
